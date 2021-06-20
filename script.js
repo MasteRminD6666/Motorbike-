@@ -38,10 +38,7 @@ const Welcome = () => {
 
 }
 
-var about= document.getElementById('about')
-about.addEventListener('click' ,function(){
-    alert("about page not created yet")
-})
+
 
 Welcome()
 
@@ -85,9 +82,10 @@ const times = () =>{
    
 
 
-    }
+   }
 
 
-times()
+
+ times()
 
 
